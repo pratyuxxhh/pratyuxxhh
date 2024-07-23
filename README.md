@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyush Parashar</h1>
 <h3 align="center">An intermediate JAVA programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyuxxhh" alt="pratyuxxhh" /></a> </p>
-
 - 🌱 I’m currently learning **JAVA**
 
 <h3 align="left">Connect with me:</h3>
