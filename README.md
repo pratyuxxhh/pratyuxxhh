@@ -1,7 +1,12 @@
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Pratyush Parashar</h1>
 <h3 align="center">An intermediate JAVA programmer</h3>
 
 - 🌱 I’m currently learning **JAVA**
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
