@@ -9,7 +9,7 @@
 
 - 🔧 Building backend applications in **Java**
 - 🌐 Learning full-stack development using **Spring Boot** and **JavaScript**
-- 🎯 Interested in REST APIs, game dev, and automation tools
+- 🎯 Interested in REST APIs and game dev
 - 📚 Improving skills via **HackerRank** and **LeetCode**
 
 ## 🚀 Languages & Tools
