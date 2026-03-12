@@ -14,9 +14,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=pratyuxxhh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyuxxhh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratyuxxhh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+### 🧠 LeetCode Metrics
+<p align="center">
+  <a href="https://leetcode.com/u/pratyuxxhh/">
+    <img src="https://leetcard.jacoblin.cool/pratyuxxhh?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
