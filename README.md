@@ -36,6 +36,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyuxxhh&theme=github-dark&hide_border=true" />
 </p>
 
+##  GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=pratyuxxhh&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+</p>
+
 
 ### 🧠 LeetCode Metrics
 <p align="center">
