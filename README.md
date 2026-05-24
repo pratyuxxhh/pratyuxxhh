@@ -12,13 +12,16 @@
 
 ## 📊 GitHub Stats & Contributions
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratyuxxhh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratyuxxhh&layout=compact&theme=dark&hide_border=true&langs_count=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyuxxhh&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyuxxhh&theme=github_dark" />
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyuxxhh&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyuxxhh&theme=tokyonight" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyuxxhh&theme=tokyonight" alt="Most Commit Language" width="48%" />
+
+</div>
 
 <!-- 📈 Contribution Graph -->
 <p align="center">
