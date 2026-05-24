@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pratyush Parashar</h1>
-<h3 align="center">🚀 Aspiring Java Developer | Backend & API Enthusiast</h3>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,30&height=300&section=header&text=Pratyush%20Parashar&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Backend%20Developer%20|%20Open%20Source%20Contributor%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C62300&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Amazing+Projects+with+Code+%F0%9F%9A%80;Spring+Boot+%7C+AI+%7C+Web+Development+%F0%9F%92%A1;Let's+Create+Something+Legendary+%E2%9C%A8" alt="Typing SVG" />
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
 # 💫 About Me:
 🔭 I’m currently working on building production-ready backend systems using Java & Spring Boot, with real-world projects involving authentication, APIs, and databases.<br><br>👯 I’m looking to collaborate on backend-heavy projects, web applications, or hackathon ideas where system design and scalability matter.<br><br>🤝 I’m looking for help with DevOps, cloud deployment, and improving frontend integration for full-stack projects.<br><br>🌱 I’m currently learning advanced Spring Boot, system design, DevOps , and modern Java features while strengthening my JavaScript & React basics.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Spring Security, MongoDB, or building backend systems from scratch.<br><br>⚡ Fun fact: I enjoy breaking my own code just to understand how real-world systems fail and scale.<br>
 
