@@ -1,8 +1,8 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,30&height=300&section=header&text=Pratyush%20Parashar&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Backend%20Developer%20|%20Open%20Source%20Contributor%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,30&height=300&section=header&text=Pratyush%20Parashar&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C62300&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Amazing+Projects+with+Code+%F0%9F%9A%80;Spring+Boot+%7C+AI+%7C+Web+Development+%F0%9F%92%A1;Let's+Create+Something+Legendary+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C62300&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Amazing+Projects+with+Code+%F0%9F%9A%80;Spring+Boot+%7C+Java+%7C+Backend+Development+%F0%9F%92%A1;Let's+Create+Something+Legendary+%E2%9C%A8" alt="Typing SVG" />
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
