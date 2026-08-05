@@ -98,7 +98,7 @@ Write, save, and manage personal diary entries with a clean interface and secure
 
 🔗 **Live:** [diaryentry-3.onrender.com](https://diaryentry-3.onrender.com)
 
-`Java` `Spring Boot` `Spring Security` `MongoDB Atlas`
+`Java` `Spring Boot` `Spring Security` `MongoDB Atlas` `JWT Authentication`
 
 </td>
 </tr>
