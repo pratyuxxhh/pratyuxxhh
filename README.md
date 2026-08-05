@@ -45,7 +45,7 @@ An AI-powered platform that converts natural language prompts into normalized, d
 
 Started as a lightweight command router (`awake`, `sleep`, `app`, `file`) and evolved into an interactive terminal wizard that scaffolds new Spring Boot projects, adds/removes dependencies, and talks directly to Spring Initializr to stay current with live metadata.
 
-`Java 21` `Maven` `Spring Boot API` `JLine`
+`Java 21` `Maven` `Spring Boot API` `JLine` `Jackson Databind`
 
 </td>
 </tr>
