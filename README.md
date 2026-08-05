@@ -28,7 +28,8 @@ An AI-powered platform that converts natural language prompts into normalized, d
 
 `Java` `Spring Boot` `Spring AI` `OpenAI` <br>
 `Mongodb Atlas` `JWT Auth` `RazorPay Integration` <br> 
-`React` `TypeScript` `Tailwind CSS` `Vite`
+`React` `TypeScript` `Tailwind CSS` `Vite` <br>
+`Docker`
 
 </td>
 </tr>
