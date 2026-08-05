@@ -12,6 +12,101 @@
 🔭 I’m currently working on building production-ready backend systems using Java & Spring Boot, with real-world projects involving authentication, APIs, and databases.<br><br>👯 I’m looking to collaborate on backend-heavy projects, web applications, or hackathon ideas where system design and scalability matter.<br><br>🤝 I’m looking for help with DevOps, cloud deployment, and improving frontend integration for full-stack projects.<br><br>🌱 I’m currently learning advanced Spring Boot, system design, DevOps , and modern Java features while strengthening my JavaScript & React basics.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Spring Security, MongoDB, or building backend systems from scratch.<br><br>⚡ Fun fact: I enjoy breaking my own code just to understand how real-world systems fail and scale.<br>
 
 
+## 🚀 Top Repositories
+
+<table>
+<tr>
+<td width="100%">
+
+### 🗄️ [DBMS Architect UI](https://github.com/pratyuxxhh/dbms-architect-ui)
+
+**Turn plain English into production-ready SQL database schemas — instantly.**
+
+An AI-powered platform that converts natural language prompts into normalized, dialect-specific relational database schemas for MySQL, PostgreSQL, Oracle SQL, and Microsoft SQL Server. Get clean `CREATE TABLE` statements, keys, constraints, and relationships in seconds — not hours.
+
+🔗 **Live Demo:** [dbms-architect-ui.vercel.app](https://dbms-architect-ui.vercel.app/)
+
+`Java` `Spring Boot` `Spring AI` `OpenAI` <br>
+`Mongodb Atlas` `JWT Auth` `RazorPay Integration` <br> 
+`React` `TypeScript` `Tailwind CSS` `Vite`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### ⚡ [Praty](https://github.com/pratyuxxhh/Praty)
+
+**A Java CLI that grew from simple system shortcuts into a full Spring Boot project assistant.**
+
+Started as a lightweight command router (`awake`, `sleep`, `app`, `file`) and evolved into an interactive terminal wizard that scaffolds new Spring Boot projects, adds/removes dependencies, and talks directly to Spring Initializr to stay current with live metadata.
+
+`Java 21` `Maven` `Spring Boot API` `JLine`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🌍 [Quatsch](https://github.com/pratyuxxhh/Quatsch)
+
+**Satellite nightlights data analysis platform.**
+
+A full-stack web app for analyzing VIIRS nightlights data to visualize economic growth, urbanization, and regional development — featuring interactive maps, anomaly detection, year-over-year comparisons, and growth analytics.
+
+📺 **Demo:** [Watch on YouTube](https://youtu.be/Gq-UjFgZVSo)
+
+`React` `Flask` `Python` `Leaflet` `Rasterio` `Three.js`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🤖 [AssignBot](https://github.com/pratyuxxhh/AssignBot)
+
+**AI-powered learning assistant & assignment generator.**
+
+Helps students and educators ask AI academic questions, summarize topics, auto-generate assignments, and create MCQs — all from a clean, fast web interface backed by an AI model.
+
+🔗 **Live:** [assignbot.onrender.com](https://assignbot.onrender.com)
+
+`Java` `Spring Boot` `JWT Auth` `Docker` `Mistral-7B`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 📔 [Journal Entry Application](https://github.com/pratyuxxhh/Journal-Entry-Application)
+
+**MyDiary — a simple, secure diary entry app.**
+
+Write, save, and manage personal diary entries with a clean interface and secure storage on the backend.
+
+🔗 **Live:** [diaryentry-3.onrender.com](https://diaryentry-3.onrender.com)
+
+`Java` `Spring Boot` `Spring Security` `MongoDB Atlas`
+
+</td>
+</tr>
+</table>
+
+---
+
+⭐ *If any of these projects catch your eye, a star goes a long way!*
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyuxxhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratyush-parashar-134a7930b/) 
 
